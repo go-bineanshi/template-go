@@ -12,4 +12,5 @@ const TOKEN_EXPIRE_ERROR uint32 = 100003
 const TOKEN_GENERATE_ERROR uint32 = 100004
 const DB_ERROR uint32 = 100005
 
-//用户模块
+// 用户模块
+const COPIER_ERROR uint32 = 200001
